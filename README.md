@@ -14,7 +14,7 @@ The portfolio contains a Full-Stack app for Finding the Loo, a Burger app, Purpl
 
 [Link to project](https://erin-smith.github.io/react-portfolio/)
 
-![Screenshot](react-portfolio/src/images/cards.png)    
+![Screenshot](static/media/cards.47384aac.png)    
 
 
 ## Contributing   
