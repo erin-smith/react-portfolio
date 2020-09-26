@@ -38,3 +38,4 @@ The portfolio contains a Full-Stack app for Finding the Loo, a Burger app, Purpl
 
 ***
 ![My Profile Picture](https://avatars.githubusercontent.com/erin-smith?size=300)
+
